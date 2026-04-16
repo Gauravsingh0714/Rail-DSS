@@ -1,0 +1,26 @@
+[
+    {
+        "train_no": "8064",
+        "train_name": "BQA-KGP DEMU",
+        "arrival_time": "04:10",
+        "departure_time": "04:15",
+        "platform": "2",
+        "reason": ""
+    },
+    {
+        "train_no": "8064",
+        "train_name": "BQA-KGP DEMU",
+        "arrival_time": "04:10",
+        "departure_time": "04:15",
+        "platform": "1",
+        "reason": "test reason"
+    },
+    {
+        "train_no": "7149",
+        "train_name": "SC-GHY HSP",
+        "arrival_time": "04:15",
+        "departure_time": "04:20",
+        "platform": "1",
+        "reason": "emergency "
+    }
+]

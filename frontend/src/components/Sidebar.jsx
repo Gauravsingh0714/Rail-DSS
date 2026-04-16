@@ -5,11 +5,11 @@ import SidebarContentItem from './SidebarContentItem'
 import { Link } from 'react-router-dom'
 export default function Sidebar() {
   const [sidebar,setSidebar]=useState([{
-    name:'Live Tracking',
-    icon:<i className="ri-route-fill"></i>
+    name:<Link className='link' to={'/dashboard'}><i className="ri-route-fill"></i> Live Tracking </Link>,
+    icon:""
   },{
-    name:'Platform Allocaction',
-    icon:<i className="ri-box-3-fill"></i>
+    name:<Link className='link' to={'/dashboard/platform'}><i className="ri-box-3-fill"></i> Platform Allocation </Link>,
+    icon:""
   },
 {
   name:<Link className='link' to={'/'}><i className="ri-logout-box-line"></i> Logout </Link>,
