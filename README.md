@@ -129,10 +129,19 @@ This repository is configured to keep your API keys and local environment variab
 
 ---
 
+## 👥 Meet the Team
+
+This project was collaboratively built for the **HackOps – Smart India Hackathon 2025** by:
+
+* **[Gaurav Singh](https://github.com/Gauravsingh0714)** - *(Your role/contribution)*
+* **[Abhinav Sahoo](https://github.com/Abhinav-Sahoo-04)** - *(Abhinav's role/contribution)*
+
+---
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Gauravsingh0714/Rail-DSS/issues) if you want to contribute.
 
 ---
 
-*Built for HackOps – Smart India Hackathon 2025*
+*Built with ❤️ for HackOps – Smart India Hackathon 2025*
