@@ -30,7 +30,7 @@
 * **Framework:** React 18 (Vite)
 * **Routing:** React Router v6
 * **Data Fetching:** Axios
-* **Data Visualization:** Recharts, Leaflet
+* **Data Visualization:** Leaflet
 * **Styling:** Custom CSS (Dark mode optimized)
 
 ---
