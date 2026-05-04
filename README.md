@@ -115,6 +115,7 @@ Rail-DSS/
 │   ├── src/               # React components, pages, and services
 │   ├── package.json       # Node dependencies
 │   └── vite.config.js     # Vite configuration
+├── Documentations/        # Presentations, reports, and demo videos
 ├── .gitignore             # Root git ignore rules
 └── README.md              # Project documentation
 ```
